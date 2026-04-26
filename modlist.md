@@ -70,8 +70,7 @@ voicechat-fabric-1
 
 Legacy Visuals Project
 
-2.
-7
+2.7
 skyboxify-2.7+1.
 21.11-fabric.jar
 
