@@ -1,7 +1,7 @@
-# 📦 Mod List
+### 📦 Mod List
 
 
-NoWheel
+# NoWheel
 
 uku
 1.3.2+m
@@ -13,7 +13,7 @@ nowheel-1.3.2
 
 
 
-Ping View
+# Ping View
 
 karlsson1000
 1.3
@@ -25,7 +25,7 @@ ic-1.3.1.jar
 
 
 
-Reese's Sodium Options
+# Reese's Sodium Options
 
 FlashyReese
 mc1.21.11-2
@@ -37,7 +37,7 @@ bric-2.0.3+mc1.21.11.jar
 
 
 
-Shulker Box Tooltip
+# Shulker Box Tooltip
 
 MisterPeModder
 5.2.16+1.21
@@ -49,7 +49,7 @@ ic-5.2.16+1.21.11.jar
 
 
 
-Simple Voice Chat
+# Simple Voice Chat
 
 henkelmax
 fabric-1.21
@@ -61,7 +61,7 @@ voicechat-fabric-1
 
 
 
-Skyboxify
+# Skyboxify
 
 Legacy Visuals Project
 2.
@@ -85,7 +85,7 @@ sodium-fabric-0.8
 
 
 
-Sodium Extra
+# Sodium Extra
 
 FlashyReese
 mc1.21.11-0
@@ -97,7 +97,7 @@ sodium-extra-fabric-
 
 
 
-Status Effect Timer
+# Status Effect Timer
 
 magicus
 2.0.0+
@@ -109,7 +109,7 @@ statuseffecttimer
 
 
 
-Text Placeholder API
+# Text Placeholder API
 
 Patbox
 2.8.2+1
@@ -121,7 +121,7 @@ placeholder-api-2
 
 
 
-TotemCounter
+# TotemCounter
 
 uku
 1.11.2+m
@@ -133,7 +133,7 @@ totemcounter-1.11
 
 
 
-Tweakeroo
+# Tweakeroo
 
 masa
 0.2
@@ -145,7 +145,7 @@ tweakeroo-fabric-1
 
 
 
-ukulib
+# ukulib
 
 uku
 1.10.2+
@@ -157,7 +157,7 @@ ukulib-1.10.2
 
 
 
-WI Zoom
+# WI Zoom
 
 Alexander01998
 1.7-MC1
@@ -169,7 +169,7 @@ C1.21.11.jar
 
 
 
-YetAnotherConfigLib (YACL)
+# YetAnotherConfigLib (YACL)
 
 isxander
 3.8.2+1.21
@@ -178,4 +178,4 @@ yet_another_config_lib_v3
 -3.8.2+1.21.11-fabric.jar
 
 
-All credits goes to his respected owener.
+# All credits goes to his respected owener.
